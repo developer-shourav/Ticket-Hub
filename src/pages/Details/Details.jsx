@@ -1,6 +1,6 @@
 const Details = () => {
     return (
-        <div>
+        <div className="container">
             <h2>This is Details Pages</h2>
         </div>
     );
